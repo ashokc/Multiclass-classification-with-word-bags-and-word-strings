@@ -2,7 +2,7 @@
   
 This is the source code to go along with the blog article
 
-[Multiclass Classification with Word Bags and Word Sequences](http://xplordat.com/2019/01/28/sentiment-analysis-with-word-bags-and-word-sequences/)
+[Multiclass Classification with Word Bags and Word Sequences](http://xplordat.com/2019/02/21/multiclass-classification-with-word-bags-and-word-sequences/)
 
 The blog evaluates the sequence respecting Long Short Term Memory (LSTM) neural nets approach to classifying 20-newsgroups articles against the traditional Support Vector Machines (SVM) approach using tf-idf vectors
 
